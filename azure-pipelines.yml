@@ -20,4 +20,5 @@ steps:
     location: 'West Europe'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/onlyforlab/activedirectory/main/azuredeploy.json?token=ALVDIUM6Y2W2VDK3LRKUHPS7WWZZ4'
+    csmParametersFileLink: 'https://raw.githubusercontent.com/onlyforlab/activedirectory/main/azuredeploy.parameters.json?token=ALVDIUIEY7VZK3B237DCXK27WW2IE'
     deploymentMode: 'Validation'
