@@ -16,5 +16,5 @@ steps:
     resourceGroupName: 'WVD'
     location: 'West Europe'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/onlyforlab/activedirectory/main/azuredeploy.json?token=ALVDIUOJQUHEWZNL53D3ES27WW3WG'
+    csmFileLink: 'https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-vm-simple-windows/azuredeploy.json'
     deploymentMode: 'Validation'
