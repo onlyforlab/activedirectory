@@ -19,6 +19,5 @@ steps:
     resourceGroupName: 'WVD'
     location: 'West Europe'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/onlyforlab/activedirectory/main/azuredeploy.json'
-    csmParametersFileLink: 'https://raw.githubusercontent.com/onlyforlab/activedirectory/main/azuredeploy.parameters.json'
+    csmFileLink: 'https://raw.githubusercontent.com/onlyforlab/activedirectory/main/azuredeploy.json?token=ALVDIUOJQUHEWZNL53D3ES27WW3WG'
     deploymentMode: 'Validation'
